@@ -18,7 +18,11 @@ económicas.
 </p>
 
 # Descripción del algoritmo.
-
+<p align="justify">
+En ese problema, el vendedor comienza en una ciudad al azar y visita repetidamente la ciudad 
+más cercana hasta que haya visitado todas. El algoritmo produce rápidamente un recorrido 
+corto, pero por lo general no es el óptimo.
+</p>
 
 <p>
 Ruta para 5 nodos:
