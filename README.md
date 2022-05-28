@@ -13,3 +13,7 @@ En lugar de centrarse en encontrar la ruta más eficaz, TSP a menudo se preocupa
 la solución más económica. En los TSP, la gran cantidad de variables crea un reto a la hora de 
 encontrar la ruta más corta, lo que hace más atractivas las soluciones aproximadas, rápidas y 
 económicas.
+
+<p align="center">
+  <img src="5nodes.png" width="350" title="5nodes">
+</p>
