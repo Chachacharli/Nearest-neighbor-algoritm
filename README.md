@@ -14,12 +14,21 @@ la solución más económica. En los TSP, la gran cantidad de variables crea un 
 encontrar la ruta más corta, lo que hace más atractivas las soluciones aproximadas, rápidas y 
 económicas.
 </p>
+<p>
+Ruta para 5 nodos:
+</p>
 <p align="center">
   <img src="Rutas/5nodes.png" width="640" title="5nodes">
 </p>
-<p align="center">
-  <img src="Rutas/48nodes.png" width="640" title="5nodes">
+<p>
+Ruta para 48 nodos:
 </p>
 <p align="center">
-  <img src="Rutas/101nodes.png" width="640" title="5nodes">
+  <img src="Rutas/48nodes.png" width="640" title="48nodes">
+</p>
+<p>
+Ruta para 101 nodos:
+</p>
+<p align="center">
+  <img src="Rutas/101nodes.png" width="640" title="101nodes">
 </p>
