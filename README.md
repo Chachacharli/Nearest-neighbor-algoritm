@@ -44,6 +44,23 @@ Los pasos para elaborar el algoritmo son:
 
 </ol>
 
+# Modelo matemático.
+
+<p>
+Función objetivo:
+</p>
+
+</p>
+<p align="center">
+  <img src="Rutas/FO.png" width="640" title="5nodes">
+</p>
+
+<p>Restricciones:</p>
+
+<p align="center">
+  <img src="Rutas/restricciones.png" width="640" title="5nodes">
+</p>
+
 <p>
   Ruta para 5 nodos:
 </p>
