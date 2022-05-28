@@ -52,13 +52,13 @@ Función objetivo:
 
 </p>
 <p align="center">
-  <img src="Rutas/FO.png" width="640" title="5nodes">
+  <img src="Rutas/FO.PNG" width="640" title="FO">
 </p>
 
 <p>Restricciones:</p>
 
 <p align="center">
-  <img src="Rutas/restricciones.png" width="640" title="5nodes">
+  <img src="Rutas/restricciones.PNG" width="640" title="restricciones">
 </p>
 
 <p>
