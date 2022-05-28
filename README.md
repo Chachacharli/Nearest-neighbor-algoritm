@@ -24,6 +24,10 @@ más cercana hasta que haya visitado todas. El algoritmo produce rápidamente un
 corto, pero por lo general no es el óptimo.
 </p>
 
+<p align="justify">
+Los pasos para elaborar el algoritmo son:
+</p>
+
 <p>
 Ruta para 5 nodos:
 </p>
