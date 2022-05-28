@@ -15,11 +15,11 @@ encontrar la ruta más corta, lo que hace más atractivas las soluciones aproxim
 económicas.
 
 <p align="center">
-  <img src="Rutas/5nodes.png" width="350" title="5nodes">
+  <img src="Rutas/5nodes.png" width="550" title="5nodes">
 </p>
 <p align="center">
-  <img src="Rutas/48nodes.png" width="350" title="5nodes">
+  <img src="Rutas/48nodes.png" width="550" title="5nodes">
 </p>
 <p align="center">
-  <img src="Rutas/101nodes.png" width="350" title="5nodes">
+  <img src="Rutas/101nodes.png" width="550" title="5nodes">
 </p>
