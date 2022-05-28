@@ -3,9 +3,11 @@
 El problema del viajante de comercio (TSP) es un problema algorítmico encargado de encontrar 
 la ruta más corta entre un conjunto de puntos y ubicaciones que deben visitarse.
 Se suele usar la siguiente analogía para describirlo:
-Imagine que un vendedor ambulante tiene que ir a todas las ciudades de una región para poder 
+"Imagine que un vendedor ambulante tiene que ir a todas las ciudades de una región para poder 
 vender sus productos, el vendedor quiere recorrer todas las ciudades y volver a su origen 
-haciendo el menor recorrido posible.
+haciendo el menor recorrido posible."
+</p>
+<p>
 Se usa a menudo en informática para encontrar la ruta más eficiente para que los datos viajen 
 entre varios nodos. Las aplicaciones incluyen la identificación de métodos de optimización de 
 redes o hardware.
