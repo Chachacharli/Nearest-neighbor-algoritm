@@ -1,4 +1,4 @@
-# Nearest-neighbor-algoritm
+# Nearest-neighbor-algorithm
 <p align="justify">
   El problema del viajante de comercio (TSP) es un problema algorítmico encargado de encontrar 
   la ruta más corta entre un conjunto de puntos y ubicaciones que deben visitarse.
